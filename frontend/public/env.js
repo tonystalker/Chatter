@@ -127,6 +127,5 @@ window.env = {
   "npm_node_execpath": "/snap/node/8723/bin/node",
   "npm_package_json": "/home/tonystalker/Desktop/projects/Chatter/frontend/package.json",
   "npm_package_name": "frontend",
-  "npm_package_version": "0.1.0",
-  "STREAM_API_KEY": "k5r83xwab4hk"
+  "npm_package_version": "0.1.0"
 };
